@@ -1,0 +1,8 @@
+- git:
+    local-name: simplebot_driver
+    uri: git@github.com:mklpiening/simplebot_driver.git
+    version: master
+- git:
+    local-name: rplidar_ros
+    uri: https://github.com/Slamtec/rplidar_ros
+    version: master 
