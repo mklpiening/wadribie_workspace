@@ -5,4 +5,8 @@
 - git:
     local-name: rplidar_ros
     uri: https://github.com/Slamtec/rplidar_ros
+    version: master
+- git:
+    local-name: wadribie_robot
+    uri: git@github.com:mklpiening/wadribie_robot.git
     version: master 
