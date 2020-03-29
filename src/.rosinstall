@@ -10,3 +10,15 @@
     local-name: wadribie_robot
     uri: git@github.com:mklpiening/wadribie_robot.git
     version: master 
+- git:
+    local-name: uos_tools
+    uri: https://github.com/uos/uos_tools.git
+    version: kinetic
+- git:
+    local-name: openslam_gmapping
+    uri: https://github.com/ros-perception/openslam_gmapping
+    version: melodic-devel
+- git:
+    local-name: slam_gmapping
+    uri: https://github.com/ros-perception/slam_gmapping.git
+    version: melodic-devel
