@@ -3,6 +3,10 @@
     uri: git@github.com:mklpiening/simplebot_driver.git
     version: master
 - git:
+    local-name: simpleimu_driver
+    uri: git@github.com:mklpiening/simpleimu_driver.git
+    version: master
+- git:
     local-name: rplidar_ros
     uri: https://github.com/Slamtec/rplidar_ros
     version: master
@@ -14,11 +18,3 @@
     local-name: uos_tools
     uri: https://github.com/uos/uos_tools.git
     version: kinetic
-- git:
-    local-name: openslam_gmapping
-    uri: https://github.com/ros-perception/openslam_gmapping
-    version: melodic-devel
-- git:
-    local-name: slam_gmapping
-    uri: https://github.com/ros-perception/slam_gmapping.git
-    version: melodic-devel
